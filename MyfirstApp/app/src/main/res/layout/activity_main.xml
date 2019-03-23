@@ -15,13 +15,13 @@
         android:src="@mipmap/bcl" />
 
     <TextView
-        android:layout_marginTop="6sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Game Start!"
+        android:layout_marginTop="6sp"
         android:gravity="center"
-        android:textSize="25sp"
-        android:textColor="@color/colorPrimaryDark"/>
+        android:text="Game Start!"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="25sp" />
 
     <LinearLayout
         android:orientation="horizontal"
