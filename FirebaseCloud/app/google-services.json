@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734373869196",
+    "firebase_url": "https://mahbub-1ee35.firebaseio.com",
+    "project_id": "mahbub-1ee35",
+    "storage_bucket": "mahbub-1ee35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734373869196:android:d0973591f453c400",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734373869196-atkmilt2va91v3sb9rtbafon8updpkfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZW5BugpJOw_92q5lLT8yrt3Bwc9HnXXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734373869196-atkmilt2va91v3sb9rtbafon8updpkfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

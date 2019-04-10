@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase Cloud</string>
+
+    <string name="quickstart_message">Click the Subscribe to weather button below to subcribe to the weathe topic . Messages sent to the weather topic will be receiced . ther Log Token button logs InstanceId token to logcat</string>
+    <string name="subcribe_to_weather">Subcribe To Weather</string>
+    <string name="log_token">Log Token</string>
+    <string name="msg_subcribe">Subscribe to weathe topic</string>
+    <string name="mes_token_fmt" translatable="false">TnstanceTD Token %s</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_defalt_channel</string>
+    <string name="default_notification_channel_name" translatable="true">Weather</string>
+    <string name="msg_subcribe_failed">Failed to subcribe toweather topic</string>
+    <string name="fcm_messages">FCM Message</string>
+</resources>
